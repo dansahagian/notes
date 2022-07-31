@@ -5,5 +5,3 @@
 * 1/2 cup white flour
 * 1 tbsp vegetable oil
 * Bake @350 degrees for 15 min
-
-#recipes

@@ -65,5 +65,3 @@
 * Dissolve curry roux in ladle, mixing as you go
 * Add milk and Worcestershire sauce
 * Serve with rice
-
-#recipes

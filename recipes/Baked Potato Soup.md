@@ -24,5 +24,3 @@
 * Reduce heat and simmer 10 minutes
 * Mix in bacon, cheese, sour cream, salt, and pepper
 * Continue cooking, stirring frequently, until cheese is melted
-
-#recipes

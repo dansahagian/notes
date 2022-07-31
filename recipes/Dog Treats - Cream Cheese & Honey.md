@@ -6,5 +6,3 @@
 * 1 tsp vanilla extract
 * 1/4 cup vegetable oil
 * Bake @350 degrees 12 - 15 minutes
-
-#recipes

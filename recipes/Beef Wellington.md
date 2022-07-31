@@ -23,5 +23,3 @@
 * Use Gordon Ramsey’s video
 * 4 inch cuts
 * 45 minutes @ 400 degrees
-
-#recipes

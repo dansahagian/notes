@@ -33,5 +33,3 @@
 
 ## Cook
 * Cook 15 min / pound @ 325 degrees
-
-#recipes

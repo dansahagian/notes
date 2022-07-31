@@ -14,5 +14,3 @@ cd Python-3.9.3
 make -j 4
 sudo make altinstall
 ```
-
-#python

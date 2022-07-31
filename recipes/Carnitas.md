@@ -30,5 +30,3 @@
 * Transfer pork to cookie sheet
 * Cook 30 min or until crisp, add liquid as needed
 * Serve with rice and tortillas
-
-#recipes

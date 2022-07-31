@@ -10,5 +10,3 @@ ssh-keygen -t ecdsa-sk -C "email address"
 ```
 
 [GitHub Blog](https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/)
-
-#dev

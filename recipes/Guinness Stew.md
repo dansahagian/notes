@@ -34,5 +34,3 @@
 * Remove lid and cook for 1 hour
 * Skim fat, remove bay leaves and thyme
 * Serve over mashed potatoes
-
-#recipes

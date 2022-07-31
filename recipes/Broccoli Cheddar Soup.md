@@ -19,5 +19,3 @@
 * Stir chicken stock into mixture. Bring to simmer, about 20 minutes
 * Add broccoli, carrots, sautéed onion, and celery, simmer 20 minutes
 * Stir cheese in until it melts
-
-#recipes
